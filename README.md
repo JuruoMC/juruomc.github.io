@@ -1,4 +1,4 @@
-# JuruoMC的个人主页
+# Juruoviet的个人主页
 <p>欢迎来到Juruoviet的个人网站！ </p>
 <p>你可以在以下的网站找到我</p>
 
